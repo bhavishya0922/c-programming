@@ -2,12 +2,8 @@
 *.o
 *.obj
 *.out
-*.class
-*.log
+*.app
 .vscode/
 .idea/
-bin/
-Debug/
-Release/
-x64/
-x86/
+*.log
+sample_output.txt
